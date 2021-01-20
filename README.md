@@ -28,11 +28,11 @@ A dobókockákból űrrakéta építése, amivel különböző küldetéseket ha
 5.  - Ha a rakétáról a küldetés végrehajtása közben leesik kocka a küldetés 0 pontot ér. A pontozási fázis véget ér.
 - Ellenkező esetben a játékos megkapja a pontok összegét amik a rakétát alkotó kockák legfelső lapjain vannak.
 - Ha a játékos opcionális küldetés is hajtott végre akkor:
-- a kockák közül amik nem kerültek bele a rajétába kiválaszthat 1db-ot azok közül amik a legkisebb értékűek és hozzáadhatja a pontszámához.
+- a kockák közül amik nem kerültek bele a rakétába kiválaszthat 1 db-ot azok közül amik a legkisebb értékűek és hozzáadhatja a pontszámához.
 - ha a játékos minden kockáját felhasználta az űrhajó megépítéséhez 6 pontot kap.
 
 ## A játék vége
-A játék 5. fordulója utána  játékosok összeadják az egyes fordulóikban kapott részpontszámokat, majd a legnagyobb összpontszámú játékos nyer. Egyező pontszám esetén több nyertes van.
+A játék 5. fordulója utána  játékosok összeadják az egyes fordulóikban kapott részpontszámokat, majd a legnagyobb összpontszámú játékos nyer. Egyező pontszám esetén, a legnagyobb pontszámmal rendelkező játékosok megosztoznak a győzelmen.
 
 ~~~
 Készítő:
