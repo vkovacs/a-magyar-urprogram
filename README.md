@@ -31,7 +31,7 @@ A dobókockákból űrrakéta építése, amivel különböző küldetéseket ha
 - Ellenkező esetben a játékos megkapja a rakétát alkotó dobókockákon lévő pontok összegét.
 - Ha a játékos opcionális küldetés is hajtott végre akkor:
 - a kockák közül amik nem kerültek bele a rakétába kiválaszthat 1 db-ot azok közül amik a legkisebb értékűek és hozzáadhatja a pontszámához.
-- ha a játékos minden kockáját felhasználta az űrhajó megépítéséhez 6 pontot kap.
+- ha a játékos minden kockáját felhasználta az űrhajó megépítéséhez további 6 pontot kap.
 
 ### Pontozás példa:
 - A játékos kockadobásának eredménye:
