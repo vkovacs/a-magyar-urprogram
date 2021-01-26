@@ -25,12 +25,23 @@ A dobókockákból űrrakéta építése, amivel különböző küldetéseket ha
     3. Holdra szállás: A játékos a rakétájával felszállás után leszáll a saját feje tetejére.
     4. Űrséta: A játékos a szub-orbitális repülésen leírtak alapján felemeli az űrhajóját majd a legfelső kockát az egyik kezével legalsó kocka alá helyezi. Ezután pedig a másik kezével a legalsó kockát áthelyezi a legfelső kocka tetejére. A leszállást ugyan azzal a kézzel kell végrehajtani, amivel a felszállás történt.
 4. A játékos végrehajtja a kiválasztott küldetést. Végrehajtáskor kizárólag a legalsó kockát lehet fogni két ujjal.
-5.  - Ha a rakétáról a küldetés végrehajtása közben leesik kocka a küldetés 0 pontot ér. A pontozási fázis véget ér.
-- Ellenkező esetben a játékos megkapja a pontok összegét amik a rakétát alkotó kockák legfelső lapjain vannak.
+
+## Pontozás
+- Ha a rakétáról a küldetés végrehajtása közben leesik kocka a küldetés 0 pontot ér. A pontozási fázis véget ér.
+- Ellenkező esetben a játékos megkapja a rakétát alkotó dobókockákon lévő pontok összegét.
 - Ha a játékos opcionális küldetés is hajtott végre akkor:
 - a kockák közül amik nem kerültek bele a rakétába kiválaszthat 1 db-ot azok közül amik a legkisebb értékűek és hozzáadhatja a pontszámához.
 - ha a játékos minden kockáját felhasználta az űrhajó megépítéséhez 6 pontot kap.
 
+### Pontozás példa:
+- A játékos kockadobásának eredménye:
+- 2, 2, 4, 4, 5, 6, 6, 6
+- A játékos űrhajót élít a 2, 2, 4, 4, 5 kockákból
+- A játékos végrehajt egy sikeres Holdra szállást
+- Ekkor megkapja 
+  - a rakétát alkozó kockák összesített pontértékét: 2 + 2 + 4 + 4 + 5 = 17
+  - a sikeres opcionális küldetés végrehajtása miatt a maradék 3db kockából választ egyet és hozáadja a pontszámához: 17+6 = 23
+- Így a játékos ebben a körében összesen 23 pontot szerzett.
 ## A játék vége
 A játék 5. fordulója utána  játékosok összeadják az egyes fordulóikban kapott részpontszámokat, majd a legnagyobb összpontszámú játékos nyer. Egyező pontszám esetén, a legnagyobb pontszámmal rendelkező játékosok megosztoznak a győzelmen.
 
