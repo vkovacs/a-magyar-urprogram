@@ -1,15 +1,15 @@
 # A Magyar Űrprogram
 
-## A játék összetevői:
+## A játék összetevői
 - 8 db hatoldalú dobókocka (rakéta elemei)
 - 1 db hatoldalú dobókocka (opcionális küldetés kiválasztás)
 - papír
 - ceruza
 
-## A játék célja:
+## A játék célja
 A dobókockákból űrrakéta építése, amivel különböző küldetéseket hajtunk vége. A sikeresen végrehajtott küldetések után pontot kapunk. A játék végén a legtöbb pontot gyűjtő játékos nyer.
 
-## A játék fázisai:
+## A játék fázisai
 1. Dobás a dobókockákkal
 1. A rakéta megépítése
 1. A végrehajtandó küldetés kiválasztása és kihirdetése
@@ -33,7 +33,7 @@ A dobókockákból űrrakéta építése, amivel különböző küldetéseket ha
     - a kockák közül amik nem kerültek bele a rakétába kiválaszthat 1 db-ot azok közül amik a legkisebb értékűek és hozzáadhatja a pontszámához.
     - ha a játékos minden kockáját felhasználta az űrhajó megépítéséhez további 6 pontot kap.
 
-### Pontozás példa:
+### Pontozás példa
 - A játékos kockadobásának eredménye:
 - 2, 2, 4, 4, 5, 6, 6, 6
 - A játékos űrhajót épít a 2, 2, 4, 4, 5 kockákból
