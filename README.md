@@ -23,8 +23,8 @@ A dobókockákból űrrakéta építése, amivel különböző küldetéseket ha
 1. Opcionális küldetések: A játékos választhatja, hogy a szub-orbitális repülés helyet az opcionális küldetés kockával meghatározott küldetést hajtja végre plusz pontokért:
    1. Orbitális repülés: A játékos a rakétájával felszállás után megkerüli a saját fejét, majd leszáll.
    1. Holdra szállás: A játékos a rakétájával felszállás után leszáll a saját feje tetejére.
-   1. Űrséta: A játékos a szub-orbitális repülésen leírtak alapján felemeli az űrhajóját majd a legfelső kockát az egyik kezével legalsó kocka alá helyezi. Ezután pedig a másik kezével a legalsó kockát áthelyezi a legfelső kocka tetejére. A leszállást ugyan azzal a kézzel kell végrehajtani, amivel a felszállás történt.
-1. A játékos végrehajtja a kiválasztott küldetést. Végrehajtáskor kizárólag a legalsó kockát lehet fogni két ujjal.
+   1. Űrséta: A játékos a szub-orbitális repülésen leírtak alapján felemeli az űrhajóját, majd a legfelső kockát az egyik kezével a legalsó kocka alá helyezi. Ezután pedig a másik kezével a legalsó kockát áthelyezi a legfelső kocka tetejére. A leszállást ugyan azzal a kézzel kell végrehajtani, amivel a felszállás történt.
+1. A játékos végrehajtja a kiválasztott küldetést. Végrehajtáskor kizárólag a legalsó kockát lehet fogni, két ujjal.
 
 ## Pontozás
 - Ha a rakétáról a küldetés végrehajtása közben leesik kocka a küldetés 0 pontot ér. A pontozási fázis véget ér.
